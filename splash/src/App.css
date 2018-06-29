@@ -1,0 +1,26 @@
+/* @import "~antd/dist/antd.css"; */
+html {
+  height: 100vh;
+  width: 100hw;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+}
+
+.signature {
+  color: goldenrod !important;
+
+  background: black;
+  position: fixed;
+  z-index: 350;
+  font-weight: 100;
+  padding: 5px 0;
+  bottom: 0px;
+  color: #000;
+  left: 0;
+  letter-spacing: 2px;
+  font-size: 10px;
+  width: 100vw;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin: 0 !important;
+}
